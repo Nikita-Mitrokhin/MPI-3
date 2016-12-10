@@ -1,0 +1,4 @@
+﻿  MPI3.cpp
+MPI3.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:LBR"
+  MPI3.vcxproj -> c:\users\nikita\documents\visual studio 2015\Projects\MPI3\x64\Debug\MPI3.exe
+  MPI3.vcxproj -> c:\users\nikita\documents\visual studio 2015\Projects\MPI3\x64\Debug\MPI3.pdb (Full PDB)
